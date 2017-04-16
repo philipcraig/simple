@@ -12,4 +12,3 @@ int main()
     std::cout << "5 * 2 = " << timestwo(5) << std::endl;
     return 0;
 }
-
