@@ -18,5 +18,8 @@
     <ClInclude Include="double.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="other.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
